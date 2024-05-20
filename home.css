@@ -1,0 +1,55 @@
+.main {
+	margin-top: 5em;
+}
+
+.button {
+	padding: 10px 30px 10px 30px;
+	margin: 10px;
+	border: solid;
+	border-width: 2px;
+	border-radius: 25px;
+	text-decoration: none;
+	color: white;
+}
+
+.button:hover {
+	border: double;
+	border-width: 6px;
+}
+
+
+#intro {
+	height: 400px;
+}
+
+.p6 {
+	padding: 6px;
+}
+
+body {
+	background: black;
+	color: white;
+	margin: 0.5em;
+	font-family: 'inconsolata', monospace;
+}
+
+.w-1 {
+	border: solid;
+	border-width: 1px;
+}
+.w-2 {
+	border: solid;
+	border-width: 2px;
+}
+
+.r-5 {
+	border-radius: 5px;
+}
+
+.r-10 {
+	border-radius: 10px;
+}
+
+.r-15 {
+	border-radius: 15px;
+}
